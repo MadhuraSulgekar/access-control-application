@@ -1,5 +1,5 @@
 package com.thesis.access_control;
-//Test commit 2
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
